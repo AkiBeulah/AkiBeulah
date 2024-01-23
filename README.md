@@ -8,7 +8,7 @@ Administering systems and networks with success working in both team and self-di
 With a keen interest in electronics and microcontroller programming.
 Quick to learn and master new technologies and grow in already familiar technologies
 
-![Akindele Beulah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkiBeulah&show_icons=true&include_all_commits=true)
+![Akindele Beulah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akibeulah&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
